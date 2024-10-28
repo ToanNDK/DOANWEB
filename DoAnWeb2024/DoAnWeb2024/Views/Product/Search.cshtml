@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DoAnWeb2024.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Kết quả tìm kiếm";
+}
+
+<h2>Kết quả tìm kiếm</h2>
+
+<form asp-action="Search" method="get">
+    <input type="text" name="query" value="@ViewData["query"]" placeholder="Tìm kiếm sản phẩm" />
+    <button type="submit">Tìm kiếm</button>
+</form>
+
+@if (!Model.Any())
+{
+    <p>Không có sản phẩm nào được tìm thấy.</p>
+}
+else
+{
+    
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3">
+                <div class="card">
+
+                    <img src="~/media/products/@product.Image" class="card-img-top" alt="@product.Name" />
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@Html.Raw(product.Description)</p>
+                       
+                        <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+                        <a href="@Url.Action("Detail", "Product", new { Id = product.Id })" class="btn btn-primary">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+

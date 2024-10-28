@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoAnWeb2024.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnWeb2024.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\AirpodProMax.jpg",
+      "PackagePath": "staticwebassets\\images\\AirpodProMax.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\Iphone14pro.jpg",
+      "PackagePath": "staticwebassets\\images\\Iphone14pro.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\Iphone15promax.jpg",
+      "PackagePath": "staticwebassets\\images\\Iphone15promax.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\RedmiNote13.png",
+      "PackagePath": "staticwebassets\\images\\RedmiNote13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\Sạc xmobile.jpg",
+      "PackagePath": "staticwebassets\\images\\Sạc xmobile.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\images\\Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\bộ sạc samsung EP.jpg",
+      "PackagePath": "staticwebassets\\images\\bộ sạc samsung EP.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\iphone13.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone13.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\iphone14.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone14.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\iphone14promax.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone14promax.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone15.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\oppo reno10.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo reno10.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\redmi 12.jpg",
+      "PackagePath": "staticwebassets\\images\\redmi 12.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\samsung a33.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung a33.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\samsung galaxy a05s.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung galaxy a05s.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\samsung galaxy a23jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung galaxy a23jpg.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\sạc ava.jpg",
+      "PackagePath": "staticwebassets\\images\\sạc ava.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\sạc dự phòng ava.jpg",
+      "PackagePath": "staticwebassets\\images\\sạc dự phòng ava.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\sạc dự phòng baseus.jpg",
+      "PackagePath": "staticwebassets\\images\\sạc dự phòng baseus.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\sạc dự phòng mazer.jpg",
+      "PackagePath": "staticwebassets\\images\\sạc dự phòng mazer.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\sạc dự phòng xmobile.jpg",
+      "PackagePath": "staticwebassets\\images\\sạc dự phòng xmobile.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\tai nghe EP.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe EP.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\tai nghe bluetooth true wireless ava.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe bluetooth true wireless ava.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\tai nghe bluetooth true wireless marshall miror IV.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe bluetooth true wireless marshall miror IV.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\tai nghe bluetooth true wireless realme buds.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe bluetooth true wireless realme buds.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\tai nghe dây apple MTJY3.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe dây apple MTJY3.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\vivo y21s.jpg",
+      "PackagePath": "staticwebassets\\images\\vivo y21s.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\images\\xiaomi redmi note 13.jpg",
+      "PackagePath": "staticwebassets\\images\\xiaomi redmi note 13.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\039da65e-beaf-46aa-ad27-90ecac0617b4_AirpodProMax.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\039da65e-beaf-46aa-ad27-90ecac0617b4_AirpodProMax.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\2d22f12f-e73c-42d9-b8a7-ae2bbdf10a24_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\2d22f12f-e73c-42d9-b8a7-ae2bbdf10a24_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\3ca2f8dd-bac4-4172-a145-b76b83f8e7ce_samsung a33.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\3ca2f8dd-bac4-4172-a145-b76b83f8e7ce_samsung a33.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\53f4c31c-19dd-4587-a828-9b92436d5781_Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\53f4c31c-19dd-4587-a828-9b92436d5781_Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\5b0e0e6a-cc7f-4e23-82b6-8da95c02438d_Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5b0e0e6a-cc7f-4e23-82b6-8da95c02438d_Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\646ad9a2-a8de-47f6-9fe4-c59a55db94a4_Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\646ad9a2-a8de-47f6-9fe4-c59a55db94a4_Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\6cb2f713-6058-4c43-affc-4aa32a02c2d7_Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\6cb2f713-6058-4c43-affc-4aa32a02c2d7_Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\700bef28-1a64-4f53-99d2-6b0df6700f49_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\700bef28-1a64-4f53-99d2-6b0df6700f49_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\7070716b-2da2-4cc1-b41e-2b496145c98e_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\7070716b-2da2-4cc1-b41e-2b496145c98e_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\785a7a31-e1e5-4f8e-88f4-8d446be85d70_Sạc xmobile.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\785a7a31-e1e5-4f8e-88f4-8d446be85d70_Sạc xmobile.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\8cc6cc1e-3ff9-437b-a3bb-4046ce8b0775_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\8cc6cc1e-3ff9-437b-a3bb-4046ce8b0775_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\9e7146d8-12cd-483e-bebb-0038b9d31ac4_RedmiNote13.png",
+      "PackagePath": "staticwebassets\\media\\products\\9e7146d8-12cd-483e-bebb-0038b9d31ac4_RedmiNote13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\a36e3d20-f353-4328-96f5-c30fb85663cf_iphone15.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\a36e3d20-f353-4328-96f5-c30fb85663cf_iphone15.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\aa27be16-5e0b-4d83-8ec0-a2ee496197b8_sạc dự phòng baseus.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\aa27be16-5e0b-4d83-8ec0-a2ee496197b8_sạc dự phòng baseus.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\aef6667f-55cc-4ebd-85a0-41c2a5efe663_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\aef6667f-55cc-4ebd-85a0-41c2a5efe663_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\b53caffe-8a7e-48e4-971c-264107e20d11_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\b53caffe-8a7e-48e4-971c-264107e20d11_Redmi Note 13.png"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\c12b9690-746f-4e0d-8e4e-a92b2b9ec0b7_sạc dự phòng xmobile.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c12b9690-746f-4e0d-8e4e-a92b2b9ec0b7_sạc dự phòng xmobile.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\ccc546c3-7851-498c-a66e-94e0ba298bfd_samsung galaxy a23jpg.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ccc546c3-7851-498c-a66e-94e0ba298bfd_samsung galaxy a23jpg.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\cdc15900-0c2b-4f8a-97dc-9c8ae77caf16_Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\cdc15900-0c2b-4f8a-97dc-9c8ae77caf16_Xiaomi.jpg"
+    },
+    {
+      "Id": "D:\\Web nâng cao\\DOANWEB\\DoAnWeb2024\\DoAnWeb2024\\wwwroot\\media\\products\\d8c59833-a497-48af-9692-b247eaaee1a6_Redmi Note 13.png",
+      "PackagePath": "staticwebassets\\media\\products\\d8c59833-a497-48af-9692-b247eaaee1a6_Redmi Note 13.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAnWeb2024.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAnWeb2024.props",
+      "PackagePath": "build\\DoAnWeb2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnWeb2024.props",
+      "PackagePath": "buildMultiTargeting\\DoAnWeb2024.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAnWeb2024.props",
+      "PackagePath": "buildTransitive\\DoAnWeb2024.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
